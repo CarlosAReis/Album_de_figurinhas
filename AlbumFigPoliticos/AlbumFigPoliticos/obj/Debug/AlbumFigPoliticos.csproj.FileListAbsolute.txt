@@ -1,0 +1,21 @@
+Z:\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\AlbumFigPoliticos.exe.config
+Z:\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\AlbumFigPoliticos.exe
+Z:\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\AlbumFigPoliticos.pdb
+Z:\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.csprojResolveAssemblyReference.cache
+Z:\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.Form1.resources
+Z:\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.FrPacoteFig.resources
+Z:\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.Properties.Resources.resources
+Z:\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.csproj.GenerateResource.Cache
+Z:\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.csproj.CoreCompileInputs.cache
+Z:\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.exe
+Z:\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.pdb
+C:\Users\CarlosAugusto\Documents\FTT - Faculdade de Tecnologia Termomecânica\3 semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\AlbumFigPoliticos.exe.config
+C:\Users\CarlosAugusto\Documents\FTT - Faculdade de Tecnologia Termomecânica\3 semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\AlbumFigPoliticos.exe
+C:\Users\CarlosAugusto\Documents\FTT - Faculdade de Tecnologia Termomecânica\3 semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\AlbumFigPoliticos.pdb
+C:\Users\CarlosAugusto\Documents\FTT - Faculdade de Tecnologia Termomecânica\3 semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.csprojResolveAssemblyReference.cache
+C:\Users\CarlosAugusto\Documents\FTT - Faculdade de Tecnologia Termomecânica\3 semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.Form1.resources
+C:\Users\CarlosAugusto\Documents\FTT - Faculdade de Tecnologia Termomecânica\3 semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.FrPacoteFig.resources
+C:\Users\CarlosAugusto\Documents\FTT - Faculdade de Tecnologia Termomecânica\3 semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.Properties.Resources.resources
+C:\Users\CarlosAugusto\Documents\FTT - Faculdade de Tecnologia Termomecânica\3 semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.csproj.GenerateResource.Cache
+C:\Users\CarlosAugusto\Documents\FTT - Faculdade de Tecnologia Termomecânica\3 semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.exe
+C:\Users\CarlosAugusto\Documents\FTT - Faculdade de Tecnologia Termomecânica\3 semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.pdb
